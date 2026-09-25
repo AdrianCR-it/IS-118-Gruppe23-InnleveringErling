@@ -13,7 +13,7 @@ Erling bør derfor være tydelig på hvilke roller og ansvarsområder de forskje
 Jeg mener derfor at Erling bør forsøke å finne en balanse mellom faglig mangfold og et felles grunnlag for samarbeid. Ulike perspektiver kan gi bedre løsninger, mens felles verdier og tydelige forventninger kan gjøre det lettere å bygge tillit. Dette gir teamet et bedre utgangspunkt når prosjektet skal utvikles videre.
 
 
-## Oppstartsmøte i prosjektet 
+## 2. Oppstartsmøte i prosjektet 
 Dette møtet blir både et informasjons- og et teambyggingsmøte. Småpraten bygger relasjonene deltagerne trenger for å fa en god start i arbeidet. Målet er å danne et trygt arbeidsmiljø hvor folk føler seg velkomne til å dele sine ideer og erfaringer. Dette blir grunnlaget for effektivt arbeid senere. Målet med dette møtet er at alle vet sine roller og bygger tillit til hverandre tidlig. 
 ### Fase 1: Introduksjon av prosjektdeltagerne 
 Det kan være lurt å starte med en liten velkomst som setter tonen til senere, dette trenger ikke vare mer enn 5 minutter. Etter dette kan det være greit å ta en liten introduksjonsrunde hvor man introduserer seg selv, hvilket firma eller avdeling man tilhører. De kan gjerne dele erfaring man har med seg til prosjektet. Det er et pluss om de nevner hva de ønsker å oppnå eller hva de gleder seg til med prosjektet. Her er det greit at Erling starter dette og gir et eksempel på hva man kan si, slik at deltakerne ikke sitter der og tenker for lenge. Etter dette kan de ta en kaffe pause. Gjerne ha til snacks tilgjengelig, folk åpner seg lettere om de er komfortable (Jacobsen, 2016, kap. 2) 
@@ -104,3 +104,12 @@ Vi har foreløpig ikke opplevd store uforutsette situasjoner, men siden kontrakt
 Erfaringer og råd for fremtidig prosjektarbeid. 
 
 Med erfaringen vi har nå, vil vi anbefale å utforme en mer detaljert kontrakt i fremtidige prosjekter. Særlig bør punkter som håndtering av sykdom og fravær formuleres mer presist, fremfor generelle formuleringer som er åpne for tolkning. I tillegg vil vi anbefale å sette faste, jevnlige møtetidspunkter en gang i måneden hvor gruppen aktivt går igjennom eventuelle utfordringer og friksjoner. Dette kan bidra til at problemer fanges opp tidlig, i stedet for at kontrakten blir et glemt dokument man kun forholder seg til ved oppstart. Overføringsverdien til fremtidige prosjekter ligger i at tydelighet og jevnlig oppfølging er minst like viktig som selve innholdet i kontrakten. 
+
+## Referanser
+Gjøsund, P., & Huseby, R. (2025). To eller flere...: Basiskunnskaper i gruppepsykologi. Cappelen Damm Akademisk.
+
+Jacobsen, D. I. (2016). Engangsorganisasjonen: Organisering og ledelse av prosjekter. Fagbokforlaget.
+
+Rolstadås, A. (u.å.). Prosjektplanlegging. I Store norske leksikon. Hentet 24. september 2026 fra https://snl.no/prosjektplanlegging
+
+Wahl, A. C. (2025, 30. september). Relasjonelle kontrakter: Nøkkelen til bedre samarbeid og langsiktig suksess. Bull. https://www.bull.no/artikler/anskaffelser/relasjonelle-kontrakter
