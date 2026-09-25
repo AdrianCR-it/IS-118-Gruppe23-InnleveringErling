@@ -27,3 +27,33 @@ Det kan være veldig risikerende for et helhetlig prosjekt dersom det har ikke b
 Et godt forslag til Erling er å sette av god tid til planlegging, drøfting, teambygging, og skissering i de tidligste fasene. Det burde være et klar oversiktlig visjon på hva som trengs i sluttresultatet, uten å gå for dypt i de minste detaljene. Her er det lurt å forberede prototyper og teste de med eksterne brukere, helst med et svært diverse gruppe med testere. 
 
 I tillegg er det viktig for Erlings medarbeiere å huske at de må ikke fokusere for mye på framtiden om de opplever tidspress. Selv om det kan være mye usikkerhet i starten av prosessen, burde laget uansett planlegge så godt de kan med utgangspunktet på potensielle usikkerheter og risikoer. En god plan gir oversikt over framtiden, men samtidig er det fleksibel nokk for lettere endringer dersom det kreves. Komplikasjoner som oppstår underveis, eller resultater fra brukertesting kan bety at prioritetene, målet, eller retningen må endres.
+
+## 6. Sikring av God kommunikasjon
+Som prosjektleder legger du i oppstartsfasen grunnlaget for hvordan teamet skal kommunisere og samarbeide gjennom hele prosjektperioden. Denne delen av pakken gir deg råd og anbefalinger basert på anerkjente prinsipper for god kommunikasjon i grupper. 
+
+Allerede fra det første møtet bør man legge vekt på å vise interesse for teammedlemmenes bidrag, gjennom aktiv og passiv lytting. Still oppfølgingsspørsmål til det som blir sagt, unngå å avbryte, og gi tydelige, positive tilbakemeldinger underveis. Dette vil bygge en trygghet tidlig i prosjektet. En praktisk måte å sikre dette på er å innfør en fast rutine der alle får ordet ved oppstart av møter, for eksempel en kort runde der hver deltaker i teamet kan si noe om status eller tanker de har. (Gjøsund & Huseby, 2025, s. 93 - 94) 
+
+Samtidig er det viktig å signalisere tydelig at alle bidrag teller likt, uavhengig av rolle eller erfaring. Som prosjektleder bør du aktivt invitere innspill fra de som er mer tilbakeholdne, slik at likeverd blir en reel del av kulturen fra start, ikke bare en uttalt intensjon. I denne sammenhengen vil humor også være et nyttig verktøy for å bygge relasjoner og senke skuldrene i en ny gruppe, men den må brukes bevisst. Humoren må ikke gå på bekostning av enkeltpersoner, men bruk den heller til å styrke det sosiale. Som leder setter du standeren for bruk av humor innad i teamet. (Gjøsund & Huseby, 2025, s. 94 - 95) 
+
+God kommunikasjon handler også om å tørre å ta tak i det som er vanskelig. Uenigheter eller uklarheter bør adresseres tidlig, før de blir store, og du bør gjøre det tydelig for de på teamet at det både er lov og ønskelig å ta opp problemer underveis. Ikke først i sluttfasen av prosjektet. Et tema som er nært knyttet til dette er Metakommunikasjon. Dette handler om å stoppe opp og ha en samtale om selve samarbeidsformen, ikke bare prosjektinnholdet. Spør gjerne teamet direkte om måten de jobber sammen faktisk fungerer. Dette er særlig verdifullt i oppstartsfasen der samarbeidsformer og forventninger skal etableres. (Gjøsund & Huseby, 2025, s. 98 - 100) 
+
+Som leder påvirker din egen atferd hele gruppens dynamikk, og det er derfor viktig å være bevisst på din rolle og hvordan du selv kommuniserer. Dette henger tett sammen med å kunne kontrollere aggressivitet og bruk av ironi. Slike virkemidler bør brukes med varsomhet, særlig i en fase der teamet enda ikke kjenner hverandre så godt, siden de lett kan mistolkes og skade en tillit som enda ikke er bygd opp engang. (Gjøsund & Huseby, 2025, s. 97 – 98) 
+
+ For at møter og diskusjoner skal være effektive, bør du utarbeide tydelige agendaer og sørge for at samtalene holder seg til saken. Samtidig bør du aktivt oppmuntre til at teammedlemmer deler avvikene meninger, og tydelig vise til at slik uenighet verdsettes. F.eks. å takke for kritiske innspill og faktisk bruke dem i beslutninger som tas. Vær også bevisst på at teammedlemmene kan ha ulike arbeidsstiler, og skap rom for dette uten at det svekker samarbeidet. (Gjøsund & Huseby, 2025, s.102-103) 
+
+Til sist, men ikke minst bør du sette standarden for en god møtedisiplin allerede fra første møtet. Hold tidene, følg agendaen, og respekter deltakernes tid. Dette er kanskje det mest konkrete uttrykket for de øvrige prinsippene i praksis, og bidrar til å bygge tillit til deg som leder og prosjektet som helhet. (Gjøsund & Huseby, 2025, s.104) 
+
+## Evaluering av gruppekontrakt/samarbeid
+Hensiktsmessighet og etterlevelse 
+
+Gruppekontrakten fungerte overordnet godt, spesielt på kommunikasjon. Fra dag en tok vi kontakt med hverandre på de måtene vi hadde avtalt i kontrakten, og dette ble raskt en naturlig rutine som la grunnlaget for resten av samarbeidet. Ansvarsfordelingen var derimot mer krevende i starten. Det tok tid før vi fant en fordeling som føles rettferdig, og vi jobber fortsatt med å finne det som fungerer best i praksis. Etter hvert som vi blir bedre kjent og får klarere forståelse om hvordan hver enkelt av oss jobber, vil dette falle mer på plass og samarbeidet vil få bedre flyt. 
+
+Kontrakten blir likevel ikke fulgt på alle punkter. Enkelte regler som å si ifra ved fravær og møte opp til avtalt tid, blir til tider dessverre glemt. Dette viser at gruppekontrakten alene ikke er nok og at det krever en aktiv oppfølging av gruppen for at kontrakten faktisk etterleves. 
+
+Svakheter og rom for forbedring 
+
+Vi har foreløpig ikke opplevd store uforutsette situasjoner, men siden kontrakten er relativt standard og generell, tror vi slike utfordringer vil kunne oppstå etter hvert som oppgavene våre utvikler seg. En klar svakhet var formuleringen om at “alle skal bidra til et felles produkt”. Dette var for vagt, og i praksis har enkelte bidratt mer enn andre til oppgavene vi har fått. Dette har allerede blitt tatt opp i gruppen, noe som viser at åpen dialog og tydelige forventinger er avgjørende når slike ubalanser oppstår underveis i samarbeidet. 
+
+Erfaringer og råd for fremtidig prosjektarbeid. 
+
+Med erfaringen vi har nå, vil vi anbefale å utforme en mer detaljert kontrakt i fremtidige prosjekter. Særlig bør punkter som håndtering av sykdom og fravær formuleres mer presist, fremfor generelle formuleringer som er åpne for tolkning. I tillegg vil vi anbefale å sette faste, jevnlige møtetidspunkter en gang i måneden hvor gruppen aktivt går igjennom eventuelle utfordringer og friksjoner. Dette kan bidra til at problemer fanges opp tidlig, i stedet for at kontrakten blir et glemt dokument man kun forholder seg til ved oppstart. Overføringsverdien til fremtidige prosjekter ligger i at tydelighet og jevnlig oppfølging er minst like viktig som selve innholdet i kontrakten. 
