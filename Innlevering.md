@@ -26,6 +26,12 @@ Relasjonelle kontrakten for medborgerportalen bør inneholde følgende kjerneele
 3. **kontinuerlig dialog:** rapporteringsmøter med fokus på kontroll bør heller erstattes med regelmessige statusmøter der prosjekteier blir mer en støttespiller og tilrettelegger både prosjektleder og prosjektgruppen.
 4. **Endringshåndtering:** Det må være enighet i kontrakten om at innholdet i portalen kan justeres underveis. Basert på tilbakemeldinger etter brukertesting og innspill fra innbyggerrepresentatene, bør UX og UI designerene kunne justere deler av portalen.
 [Wahl,2025]
+Relasjonelle kontrakten for medborgerportalen bør inneholde følgende kjerneelementer: 
+1. **Felles visjon og mål:** både prosjekteier og prosjektgruppen må forplikte seg til målet om å øke innbyggerengasjement og transparensen med 20%. Dette er viktig for å forhindre at partene får motstridende interesser underveis.
+2. **samarbeid og verdier:** Samarbeidsprinsipper bør defineres klart og tydelig. Dette gjelder for eksempel gjennsidig respekt for de ulike medlemmene i gruppen med ulike fagbakgrunn og trasparens i beslutninger tatt av ledelsen. 
+3. **kontinuerlig dialog:** rapporteringsmøter med fokus på kontroll bør heller erstattes med regelmessige statusmøter der prosjekteier blir mer en støttespiller og tilrettelegger både prosjektleder og prosjektgruppen.
+4. **Endringshåndtering:** Det må være enighet i kontrakten om at innholdet i portalen kan justeres underveis. Basert på tilbakemeldinger etter brukertesting og innspill fra innbyggerrepresentatene, bør UX og UI designerene kunne justere deler av portalen.
+[Wahl,2025]
 
 ## 4. Proaktive mekanismer for konflikthåndtering
 I et prosjekt som dette, utviklingen av en digital medborgerportal, vil det ofte kunne oppstå uenigheter. Disse uenighetene kan for eksempel handle om prioritering av utvikling, kostnader, personvern eller politisk ladet tankegang. For å forhindre at disse typene uenigheter utvikler seg og eskalerer, bør Erling og teamet hans lage et sett med tydelige og proaktive standarder allerede ved prosjektstart.
