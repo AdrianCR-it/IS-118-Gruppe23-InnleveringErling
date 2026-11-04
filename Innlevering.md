@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 1. Rekruttering og sammensetning av teamet
 
 Når Erling skal sette sammen prosjektgruppen, bør han først og fremst sørge for at teamet har ulik kompetanse. Prosjektet handler om å utvikle en digital portal for innbyggerne, og derfor trenger man flere perspektiver enn bare teknisk kompetanse. IT-personer kan bidra med den tekniske utviklingen, mens UX/UI-designeren kan fokusere på at løsningen blir enkel å bruke. Sikkerhetseksperten kan se på datasikkerhet og personvern, mens representantene fra innbyggergruppene kan bidra med kunnskap om hva brukerne faktisk trenger.
@@ -64,6 +65,8 @@ Oppsummert bør konflikthåndtering i teamet derfor ikke først og fremst sees p
 
 
 
+=======
+>>>>>>> parent of 4b8db74 (Update Innlevering.md)
 ## 5. Håndtering av tidspress og "planleggingsfellen":
 For at et prosjekt skal være gjennomførbart på en effektivt måte og ikke bli strekket ut på ubestemt tid, krever det en fast tidsramme med et avslutningstidspunkt. Dette pleier som oftest å være et siste frist for når noe skal være ferdiggjort. I utgangspunktet er dette en av de viktigste strategiene for å sikre at noe faktisk blir gjort i tide, og kan være et god bidrag til en form for produktivt press, slik at prosjektmedlemmene føler seg motivert til å presse seg litt fram. Men i noe tilfeller kan dette være kontraproduktivt og danne uvaner blant teamet. Tidspress kan hjelpe enkelte individer med å faktisk komme i gang med oppgaver, men usunn tidspress kan lede til at en arbeidsgruppe forsømmer gode strategier for teamsamhold, arbeidsflyt, og oversiktlig planlegging, fordi de får mistanken at å planlegge istedenfor å handle umiddelbart bortkaster tid. Denne oppførselen viser seg i fenomenet "planleggingsfellen."
 
