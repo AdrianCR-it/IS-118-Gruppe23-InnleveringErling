@@ -3,6 +3,7 @@ import sys
 
 suksess_tall : float = 0.0
 
+
 def typewrite(text):
     for char in text:
         sys.stdout.write(char)
